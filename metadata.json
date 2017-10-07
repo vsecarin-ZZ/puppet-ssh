@@ -1,0 +1,15 @@
+{
+  "name": "vsecarin-ssh",
+  "version": "0.1.0",
+  "author": "vsecarin",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/vsecarin/puppet-ssh",
+  "project_page": "https://github.com/vsecarin/puppet-ssh",
+  "issues_url": "https://github.com/vsecarin/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
